@@ -1,0 +1,9 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ôçùøÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ôçùøÿÿÿÿ
+`	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ôçùøÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "ADMIN" 3 times.(´×Ãæøÿÿÿÿ
+i
+java:S1192"NDefine a constant instead of duplicating this literal "Access Denied" 3 times.(Ôçùøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±—Á 

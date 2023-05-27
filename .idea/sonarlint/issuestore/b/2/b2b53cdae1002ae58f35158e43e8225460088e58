@@ -1,0 +1,18 @@
+
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(îş’
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÎæãÿÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(³ö
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¥Öß«
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ç¡Ëùøÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(É¼™íıÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(™Ë®
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(™»û‘şÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ñì›úÿÿÿÿ
+s
+java:S3923T"]This conditional operation returns the same value whether the condition is "true" or "false".(ıÔÖÈ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(†ïÑ’
+C
+java:S1172_"-Remove this unused method parameter "player".(²Ì¾
+B
+java:S1172c",Remove this unused method parameter "color".(Ëíÿä
